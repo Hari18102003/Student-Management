@@ -1,0 +1,6 @@
+/libs/
+*.class
+*.log
+.idea/
+out/
+config.properties
